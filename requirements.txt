@@ -1,0 +1,7 @@
+pdfplumber
+pypdfium2
+pytesseract
+opencv-python
+numpy
+openpyxl
+Pillow
